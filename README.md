@@ -1,2 +1,2 @@
-# Plancks-Radiation-Law-and-efficiency
-This code models the Planck's Radiation Law and models the efficiency of the human eye to weight the radiation law.
+This project entails using the Planck's Radiation Law to model the most efficient way to light up a room using radiation. This code uses the scipy.integrate function in order to rapidly calculate the power at each temperture.
+
